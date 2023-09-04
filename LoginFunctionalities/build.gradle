@@ -44,7 +44,7 @@ afterEvaluate {
 
                 groupId = 'com.github.MaarvinSuraj'
                 artifactId = 'Login-Functionalities'
-                version = '3.0'
+                version = '4.0'
             }
         }
     }
